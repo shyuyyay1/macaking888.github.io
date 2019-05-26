@@ -1,0 +1,8 @@
+JSON_START{"description":""}JSON_END
+Home
+
+Home
+
+{{block:main/header}}
+<!-- ScrollToTop Button --><div><a class="bloc-button btn btn-d scrollToTop" onclick="scrollToTarget('1',this)"><span class="fa fa-chevron-up"></span></a></div><!-- ScrollToTop Button END-->{{block:main/footer}}
+
